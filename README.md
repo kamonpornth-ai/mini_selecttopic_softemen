@@ -1,7 +1,7 @@
 #  Digital Pocket Store 
 
-> A modern, minimalist digital product marketplace designed for seamless mobile experiences.
-> แพลตฟอร์มร้านค้าขายสินค้าดิจิทัล (E-Book, Templates, UI Kits) ที่ออกแบบมาเพื่อการใช้งานบนสมาร์ทโฟนโดยเฉพาะ (Mobile-First Approach)
+> A modern, minimalist digital product marketplace designed 
+> แพลตฟอร์มร้านค้าขายสินค้าดิจิทัล (E-Book, Templates, UI Kits)
 
 ## 🎨 UI/UX Design Concept: "Minimalist & Trustworthy"
 
